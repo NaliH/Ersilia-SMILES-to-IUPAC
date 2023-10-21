@@ -1,0 +1,6 @@
+drugs,smiles,can_smiles
+acetylsalicylic acid,CC(=O)Oc1ccccc1C(O)=O,CC(=O)Oc1ccccc1C(=O)O
+aciclovir,NC1=NC(=O)c2ncn(COCCO)c2N1,Nc1nc(=O)c2ncn(COCCO)c2[nH]1
+aclidinium,OC(C(=O)O[C@H]1C[N+]2(CCCOC3=CC=CC=C3)CCC1CC2)(C1=CC=CS1)C1=CC=CS1,O=C(O[C@H]1C[N+]2(CCCOc3ccccc3)CCC1CC2)C(O)(c1cccs1)c1cccs1
+afatinib,CN(C)C\C=C\C(=O)NC1=C(O[C@H]2CCOC2)C=C2N=CN=C(NC3=CC(Cl)=C(F)C=C3)C2=C1,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1
+albendazole,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1,CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1
